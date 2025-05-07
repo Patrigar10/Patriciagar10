@@ -1,10 +1,10 @@
 
-## 👩‍💻 Full Stack Developer | Recently graduated from Adalab
-## 💡 Passionate about building web applications and solving real-world problems
-## 🔁 Agile & Scrum enthusiast
-## 🚀 Currently finalizing my portfolio and working on new projects
-## 📚 Continuously learning and growing
-## 🤝 Eager to join a team where I can contribute and keep developing my skills in a professional environment
+### 👩‍💻 Full Stack Developer | Recently graduated from Adalab
+### 💡 Passionate about building web applications and solving real-world problems
+### 🔁 Agile & Scrum enthusiast
+### 🚀 Currently finalizing my portfolio and working on new projects
+### 📚 Continuously learning and growing
+### 🤝 Eager to join a team where I can contribute and keep developing my skills in a professional environment
 
 ### 🛠️ Tech Stack
 
